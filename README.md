@@ -1,1 +1,1 @@
-# ArcoLinux pipemenu's for openbox
+# HefftyLionOS pipemenu's for openbox
